@@ -6,7 +6,7 @@ The twenty-fifth session of the LSST Discovery Alliance Data Science Fellowship 
 - Dr. Ioana Ciuca, Stanford University [:octocat:](https://github.com/IoanaCiuca)
 - Dr. Aleksandra Ciprijanovic, Fermi National Accelerator Laboratory [:octocat:](https://github.com/AleksCipri)
 - Dr. Yongseok Jo, SkAI Institute [:octocat:](https://github.com/YongseokJo)
-- Dr. Lu Cheng, UIC 
+- Dr. Lu Cheng, University of Illinois - Chicago [:octocat:](https://github.com/GitHubLuCheng) 
 
 Lectures were also delivered by the DSFP leadership team:
 
